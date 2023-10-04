@@ -11,15 +11,35 @@
     padding-top: 10px;
     padding-bottom: 10px;
 }
-.container .row .col-xl-4 {
-	border-left-style: solid;
-	border-left-color: silver;
+
+.navbar.navbar-expand-lg.navbar-light #navbarSupportedContent1 .navbar-nav.mr-auto {
+    margin: 0px auto;
 }
+
+
 .container {
 	padding-top: 10px;
 	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
-}.col-xl-4 center h1 {
+}
+#logo {
     font-family: algerian;
     font-size: 48px;
-	
+	text-align: center;
+}
+.container-fluid .container .row {
+    padding-top: 10px;
+    
+}
+
+
+.container .row .col-xl-8 {
+	border-bottom: 2px solid black;
+}
+
+
+.row {
+	margin: 0px auto;
+}
+.container-fluid .container .row {
+    margin-top: 0px;
 }
