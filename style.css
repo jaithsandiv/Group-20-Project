@@ -2,8 +2,8 @@
 .container-fluid .navbar.navbar-expand-lg.navbar-light {
     background-color: #FFFFFF;
     border-bottom-style: double;
-    border-bottom-width: 5px;
-	border-top: solid;
+    border-bottom-width: 3px;
+	border-top: 1px solid;
 	border-top-color: silver;	
 }
 
@@ -28,18 +28,15 @@
 }
 .container-fluid .container .row {
     padding-top: 10px;
-    
+	padding-bottom: 5px;
 }
-
-
-.container .row .col-xl-8 {
-	border-bottom: 2px solid black;
-}
-
 
 .row {
 	margin: 0px auto;
 }
 .container-fluid .container .row {
     margin-top: 0px;
+}
+.row .col-xl-9 .row {
+	border-bottom: 1px solid black;
 }
