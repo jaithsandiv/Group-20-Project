@@ -47,3 +47,6 @@
 .container-fluid .container footer {
 	border-top: 3px double silver;
 }
+.container .row.mainrow .col-xl-3 {
+    border-left: 1px solid black;
+}
