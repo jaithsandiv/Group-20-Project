@@ -31,6 +31,10 @@
 	padding-bottom: 5px;
 }
 
+.container-fluid .container .row.mainrow{
+	padding: 0px;
+}
+
 .row {
 	margin: 0px auto;
 }
