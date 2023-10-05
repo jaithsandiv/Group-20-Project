@@ -40,3 +40,6 @@
 .row .col-xl-9 .row {
 	border-bottom: 1px solid black;
 }
+.container-fluid .container footer {
+	border-top: 3px double silver;
+}
