@@ -42,10 +42,16 @@
     margin-top: 0px;
 }
 .row .col-xl-9 .row {
-	border-bottom: 1px solid black;
+	border-top: 1px solid black;
 }
+
+.row .col-xl-3 .row {
+	border-top: 1px solid black;
+}
+
+
 .container-fluid .container footer {
-	border-top: 3px double silver;
+	border-top: 3px double black;
 }
 .container .row.mainrow .col-xl-3 {
     border-left: 1px solid black;
