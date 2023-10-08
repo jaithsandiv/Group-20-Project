@@ -45,7 +45,7 @@
 	border-top: 1px solid black;
 }
 
-.row .col-xl-3 .row {
+.row.mainrow .col-xl-3 .row {
 	border-top: 1px solid black;
 }
 
@@ -62,6 +62,10 @@
 .col-xl-3 .row .col-xl-12.col-lg-4.col-md-4 {
 	border-top: 1px solid silver;
 }
+.row.mainrow .col-xl-9 .row {
+}
+
+
 
 
 
