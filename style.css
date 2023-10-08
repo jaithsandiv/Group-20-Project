@@ -55,10 +55,18 @@
 }
 .container .row.mainrow .col-xl-3 {
     border-left: 1px solid black;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
 }
+.col-xl-3 .row .col-xl-12.col-lg-4.col-md-4 {
+	border-top: 1px solid silver;
+}
+
 
 @media (max-width:1199.98px){
 	.container .row.mainrow .col-xl-3 {
     border-left: 0px;
+	display: block;
 }
 }
