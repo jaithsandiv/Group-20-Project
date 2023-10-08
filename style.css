@@ -64,9 +64,12 @@
 }
 
 
+
 @media (max-width:1199.98px){
 	.container .row.mainrow .col-xl-3 {
     border-left: 0px;
 	display: block;
 }
+
 }
+
