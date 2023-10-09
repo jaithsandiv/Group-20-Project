@@ -62,11 +62,10 @@
 .col-xl-3 .row .col-xl-12.col-lg-4.col-md-4 {
 	border-top: 1px solid silver;
 }
-.row.mainrow .col-xl-9 .row {
+
+.first {
+	border-top: 0 !important;
 }
-
-
-
 
 @media (max-width:1199.98px){
 	.container .row.mainrow .col-xl-3 {
